@@ -1,0 +1,49 @@
+/* Universal */
+* {
+    box-sizing: border-box;
+}
+
+/* Type or Tag */
+p {
+    margin-block: 1.5rem;
+}
+
+/* Class */
+.class {
+    text-decoration: underline;
+}
+
+/* ID */
+#id {
+    font-family: monospace;
+}
+
+/* Relational */
+li:has(a){
+    display: flex;
+}
+
+/* Descendant */
+header h1 {
+    
+}
+
+/* Child */
+header > h1 {
+
+}
+
+/* General sibling */
+h1 ~ p {
+
+}
+
+/* Adjacent sibling */
+h1 + p {
+
+}
+
+/* Chained */
+h1, p {
+    
+}

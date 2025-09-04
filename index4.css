@@ -1,0 +1,16 @@
+/* Class*/
+.container {
+    display: grid;
+    grid-template-columns: 2fr 1fr 2fr;
+    
+    border: 2px solid black;
+}
+.item {
+    
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 4px 4px;
+    text-align: justify;
+    font-family: monospace;
+    font-size: small;
+}
