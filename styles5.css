@@ -1,0 +1,33 @@
+:root {
+    --sky_blue: #17608d;
+    --white: #ffffff;
+    --purple:#4d0491;
+}
+
+.shopping-cart {
+    font-family: sans-serif;
+    animation: appearIn 2s ease-in-out;
+}
+
+.btn-pay {
+    margin: 10px 5px;
+    border-radius: 10px;
+    padding: 6px;
+    background-color: var(--sky_blue);
+    color: var(--white);
+    width: 33%;
+    
+}
+.btn-pay:hover {
+    cursor: pointer;
+    background-color: var(--purple);
+}
+
+@keyframes appearIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
