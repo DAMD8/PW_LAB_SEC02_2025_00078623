@@ -1,3 +1,7 @@
 # PW_LAB_SEC02_2025_00078623
+Pregunta pagina 8 => Analicemos ¿Qué ocurre en cada caso presentado anteriormente con los operadores y porqué JS me permite esto?
+JS permite que los operadores tengan un comportamiento más flexible que en otros lenguajes, debido a lo dinámico que puede llegar a ser el idioma, mas aun tomando en consideracion lo que se dijo al principio de la practica sobre el uso de JS para la creacion de robots y de nuevos Prompts. Un ejemplo de este es el " + " que se puede usar para sumar como para concatenar palabras.
 
-Los ejercicios y practicas de los laboratorios se encuentran en las branches
+En conclusión, JS lo permite porque no exige un tipado estricto y decide cómo operar en tiempo de ejecución según los valores.
+Pregunta pagina 9 => Analicemos ¿El comportamiento de los flujos de control es similar a otros lenguajes y ambientes de desarrollo?
+Sí, los flujos de control (if, else, while, for, switch) en JavaScript funcionan de manera muy similar a otros lenguajes como C, Java o Python. Si vemos C++ tiene una estructura similar en los if como en los whiles y los demas flujos de control. Pero hay que tomar en cuenta el uso adecuado de las variables como de los valores que se utilizaron. 
