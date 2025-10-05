@@ -1,3 +1,2 @@
 # PW_LAB_SEC02_2025_00078623
-
-Los ejercicios y practicas de los laboratorios se encuentran en las branches
+¿Qué significa className en React? ¿las props tienen un limite? ¿Quién define las props? R// ClassName es el reemplazo de class de HTML porque "class" es palabra reservada en JavaScript, por lo que no hay un límite de props se puede pasar o utilizar todas las que necesites, por lo mismo cuando se quiere saber quién define las props, nos damos cuenta que las define el que crea el componente, como parámetros de una función. <<Ejercicio 4 y Final estan en un rar porque no debaja subir esa cantidad de archivos>>
